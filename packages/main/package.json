@@ -8,6 +8,6 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "test": "echo main-test"
+    "test": "node index.js"
   }
 }

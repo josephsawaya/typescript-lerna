@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo helper-test"
+    "test": "node index.js"
   }
 }
